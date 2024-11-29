@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49182A-E9EA-40EF-B3C6-49ADE6290A32}|HomeTask13.csproj|c:\\users\\huawei\\desktop\\hometask13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49182A-E9EA-40EF-B3C6-49ADE6290A32}|HomeTask13.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49182A-E9EA-40EF-B3C6-49ADE6290A32}|HomeTask13.csproj|c:\\users\\huawei\\desktop\\hometask13\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49182A-E9EA-40EF-B3C6-49ADE6290A32}|HomeTask13.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E49182A-E9EA-40EF-B3C6-49ADE6290A32}|HomeTask13.csproj|c:\\users\\huawei\\desktop\\hometask13\\cartypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E49182A-E9EA-40EF-B3C6-49ADE6290A32}|HomeTask13.csproj|solutionrelative:cartypeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarTypeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\CarTypeEnum.cs",
+              "RelativeDocumentMoniker": "CarTypeEnum.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\CarTypeEnum.cs",
+              "RelativeToolTip": "CarTypeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:24:25.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:17:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\HomeTAsk13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:16:50.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
