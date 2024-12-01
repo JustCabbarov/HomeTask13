@@ -1,0 +1,18 @@
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\HomeTask14.exe
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\HomeTask14.deps.json
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\HomeTask14.runtimeconfig.json
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\HomeTask14.dll
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\HomeTask14.pdb
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.dll
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\refint\HomeTask14.dll
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.pdb
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\ref\HomeTask14.dll
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.csproj.AssemblyReference.cache
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\Helper Library.dll
+C:\Users\Huawei\source\repos\HomeTask14\bin\Debug\net6.0\Helper Library.pdb
+C:\Users\Huawei\source\repos\HomeTask14\obj\Debug\net6.0\HomeTask14.csproj.Up2Date
