@@ -1,29 +1,12 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {
-      "HeleperLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/HeleperLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/HeleperLibrary.dll": {}
-        }
-      }
-    }
+    "net6.0": {}
   },
-  "libraries": {
-    "HeleperLibrary/1.0.0": {
-      "type": "project",
-      "path": "../HeleperLibrary/HeleperLibrary.csproj",
-      "msbuildProject": "../HeleperLibrary/HeleperLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
     "net6.0": [
-      "HeleperLibrary >= 1.0.0"
+      "C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj"
     ]
   },
   "packageFolders": {
@@ -33,11 +16,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\HomeTask14.csproj",
+      "projectUniqueName": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\HomeTask14.csproj",
       "projectName": "HomeTask14",
-      "projectPath": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\HomeTask14.csproj",
+      "projectPath": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\HomeTask14.csproj",
       "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\obj\\",
+      "outputPath": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,8 +42,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\HeleperLibrary.csproj": {
-              "projectPath": "C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\HeleperLibrary.csproj"
+            "C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj": {
+              "projectPath": "C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj"
             }
           }
         }
@@ -98,5 +81,16 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

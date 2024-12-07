@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "EIp8UujohNc=",
-  "success": true,
-  "projectFilePath": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\HomeTask14.csproj",
+  "dgSpecHash": "kJ36XGTAn1o=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\HomeTask14.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\Huawei\\Desktop\\Task\\HeleperLibrary\\HeleperLibrary.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }

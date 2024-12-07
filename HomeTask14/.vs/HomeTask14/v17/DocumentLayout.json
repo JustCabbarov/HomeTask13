@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\",
+  "WorkspaceRootPath": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|c:\\users\\huawei\\source\\repos\\hometask14\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|c:\\users\\huawei\\source\\repos\\hometask14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|c:\\users\\huawei\\source\\repos\\hometask14\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|c:\\users\\huawei\\desktop\\task\\hometask14\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18BA9E1A-F02A-4807-91C9-F0BF92C61104}|..\\HeleperLibrary\\HeleperLibrary.csproj|c:\\users\\huawei\\source\\repos\\heleperlibrary\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|c:\\users\\huawei\\desktop\\task\\hometask14\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\Helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|c:\\users\\huawei\\desktop\\task\\hometask14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FB686E9-B002-4CA2-97E9-57C8020155DD}|HomeTask14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,47 +25,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\Program.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T00:23:12.817Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\Book.cs",
-              "RelativeDocumentMoniker": "Book.cs",
-              "ToolTip": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\Book.cs",
-              "RelativeToolTip": "Book.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T00:49:01.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Helper.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\Helper.cs",
-              "RelativeDocumentMoniker": "..\\HeleperLibrary\\Helper.cs",
-              "ToolTip": "C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\Helper.cs",
-              "RelativeToolTip": "..\\HeleperLibrary\\Helper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T09:05:54.689Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -73,13 +46,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T00:49:01.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\Helper.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\HeleperLibrary\\Helper.cs",
+              "ToolTip": "C:\\Users\\Huawei\\source\\repos\\HeleperLibrary\\Helper.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\HeleperLibrary\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T09:05:54.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Library.cs",
-              "DocumentMoniker": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\Library.cs",
+              "DocumentMoniker": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\Library.cs",
               "RelativeDocumentMoniker": "Library.cs",
-              "ToolTip": "C:\\Users\\Huawei\\source\\repos\\HomeTask14\\Library.cs",
+              "ToolTip": "C:\\Users\\Huawei\\Desktop\\Task\\HomeTask14\\Library.cs",
               "RelativeToolTip": "Library.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwCQAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-01T00:51:15.312Z",
               "EditorCaption": ""
